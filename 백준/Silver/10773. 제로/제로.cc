@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// 정수가 "0"일 경우에 지울 수 있는 수가 있음을 보장할 수 있다.
-
 int main() {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
