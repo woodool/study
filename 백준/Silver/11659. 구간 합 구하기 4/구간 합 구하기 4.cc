@@ -7,7 +7,7 @@ int main() {
 
 	int N, M;
 	cin >> N >> M;
-	vector<int> Vec(N + 1, 0);
+	vector<int> Vec(N + 1);
 
 	for (int i = 1; i <= N; i++) {
 		int a;
